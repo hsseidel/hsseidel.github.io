@@ -12,15 +12,15 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family: Arial;
+    font-family: 'Arial';
 }
 h2 {
     font-size: 1.5em;
-    font-family: Arial;
+    font-family: 'Arial';
 }
 p {
     font-size: 1.5em;
-    font-family: Arial;
+    font-family: 'Arial';
     line-height: 1.4em;
     color: #333;
 }
